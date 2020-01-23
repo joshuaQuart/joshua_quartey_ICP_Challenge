@@ -1,0 +1,12 @@
+Product ID 	 Product Name	 Product Price	 Quantity
+
+1)  ESS001  	 Soap        	 5.00 		 25   
+2)  ESS002  	 Oreo        	 4.50 		 95   
+3)  ESS003  	 Fanyogo     	 2.00 		 100  
+4)  ESS004  	 Water       	 1.20 		 250  
+5)  ESS005  	 Milk        	 7.50 		 45   
+6)  ESS006  	 Lotion      	 4.00 		 30   
+7)  ESS007  	 Cereal      	 15.00		 20   
+8)  ESS008  	 Sardine     	 6.00 		 10   
+9)  ESS009  	 Perfume     	 12.00		 15   
+10) ESS010  	 Chocolate   	 5.50 		 30   
